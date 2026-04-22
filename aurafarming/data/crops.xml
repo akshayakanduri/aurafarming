@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crops>
+  <crop>
+    <id>c_69e9069b4d405</id>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <name>tomatoes</name>
+    <quantity>2</quantity>
+    <price>30</price>
+    <category>vegetables</category>
+    <sale_type>retail</sale_type>
+    <location>karnataka</location>
+    <status>available</status>
+    <date_added>2026-04-22 19:34:19</date_added>
+  </crop>
+  <crop>
+    <id>c_69e9123689e1b</id>
+    <name>basmati rice</name>
+    <category>grains</category>
+    <quantity>9</quantity>
+    <sale_type>retail</sale_type>
+    <location>karnataka</location>
+    <price>14.99</price>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <status>available</status>
+    <date_added>2026-04-22 20:23:50</date_added>
+  </crop>
+  <crop>
+    <id>c_69e915b16ee37</id>
+    <name>onion</name>
+    <category>vegetables</category>
+    <quantity>1</quantity>
+    <sale_type>retail</sale_type>
+    <location>karnataka</location>
+    <price>25</price>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <status>available</status>
+    <date_added>2026-04-22 20:38:41</date_added>
+  </crop>
+  <crop>
+    <id>c_69e915c08bcb6</id>
+    <name>carrot</name>
+    <category>vegetables</category>
+    <quantity>5</quantity>
+    <sale_type>retail</sale_type>
+    <location>karnataka</location>
+    <price>23</price>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <status>available</status>
+    <date_added>2026-04-22 20:38:56</date_added>
+  </crop>
+  <crop>
+    <id>c_69e916e8349ce</id>
+    <name>mango</name>
+    <category>fruits</category>
+    <quantity>8</quantity>
+    <sale_type>retail</sale_type>
+    <location>karnataka</location>
+    <price>45</price>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <status>available</status>
+    <date_added>2026-04-22 20:43:52</date_added>
+  </crop>
+  <crop>
+    <id>c_69e91c5316dd0</id>
+    <name>mango</name>
+    <category>fruits</category>
+    <quantity>15</quantity>
+    <sale_type>wholesale</sale_type>
+    <location>karnataka</location>
+    <price>29.99</price>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <status>available</status>
+    <image>assets/images/products/mango.jpg</image>
+    <date_added>2026-04-22 21:06:59</date_added>
+  </crop>
+</crops>

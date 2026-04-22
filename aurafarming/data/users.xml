@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <!-- Initial seed data can be placed here -->
+  <user>
+    <id>u_69e8c039205b6</id>
+    <name>Akshaya Kanduri</name>
+    <email>akshayakanduri@gmail.com</email>
+    <password>$2y$10$LnUIQ8zpiNiukYaUlxlep.COw8KUCQ/hr9J0Zq7h9R.LX61.4Scla</password>
+    <role>customer</role>
+    <location>karnataka</location>
+    <rating>5.0</rating>
+  </user>
+  <user>
+    <id>u_69e8ca784d4a7</id>
+    <name>Akshaya Kanduri</name>
+    <email>akshayakan@gmail.com</email>
+    <password>$2y$10$D58jF6jqGxHJMhPd1G1d/.S8oYq2JO6PCntQEZwDRy2aeR9s88AXu</password>
+    <role>unassigned</role>
+    <location>karnataka</location>
+    <rating>5.0</rating>
+  </user>
+  <user>
+    <id>u_69e8cab06d8ee</id>
+    <name>Akshaya Kanduri</name>
+    <email>akshayak@gmail.com</email>
+    <password>$2y$10$pJxcLrh0PsopdkSMpUcb2es5zz6vnTE4Ih/Huo2aEL9ZoV/9zX6Fm</password>
+    <role>customer</role>
+    <location>karnataka</location>
+    <rating>5.0</rating>
+  </user>
+</users>

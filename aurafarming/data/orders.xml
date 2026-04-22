@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <id>o_69e911fb982de</id>
+    <customer_id>u_69e8cab06d8ee</customer_id>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <crop_id>c_69e910578abb4</crop_id>
+    <quantity>50</quantity>
+    <price_per_unit>12</price_per_unit>
+    <total>600</total>
+    <date>2026-04-22 20:22:51</date>
+  </order>
+  <order>
+    <id>o_69e91d00b6568</id>
+    <customer_id>u_69e8cab06d8ee</customer_id>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <crop_id>c_69e9123689e1b</crop_id>
+    <quantity>1</quantity>
+    <price_per_unit>14.99</price_per_unit>
+    <total>14.99</total>
+    <date>2026-04-22 21:09:52</date>
+  </order>
+  <order>
+    <id>o_69e91d27414e3</id>
+    <customer_id>u_69e8cab06d8ee</customer_id>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <crop_id>c_69e9123689e1b</crop_id>
+    <quantity>1</quantity>
+    <price_per_unit>14.99</price_per_unit>
+    <total>14.99</total>
+    <date>2026-04-22 21:10:31</date>
+  </order>
+  <order>
+    <id>o_69e91f9725317</id>
+    <customer_id>u_69e8cab06d8ee</customer_id>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <crop_id>c_69e9123689e1b</crop_id>
+    <quantity>1</quantity>
+    <price_per_unit>14.99</price_per_unit>
+    <total>14.99</total>
+    <date>2026-04-22 21:20:55</date>
+  </order>
+  <order>
+    <id>o_69e91f972533d</id>
+    <customer_id>u_69e8cab06d8ee</customer_id>
+    <farmer_id>u_69e8cab06d8ee</farmer_id>
+    <crop_id>c_69e91c5316dd0</crop_id>
+    <quantity>25</quantity>
+    <price_per_unit>29.99</price_per_unit>
+    <total>749.75</total>
+    <date>2026-04-22 21:20:55</date>
+  </order>
+</orders>
